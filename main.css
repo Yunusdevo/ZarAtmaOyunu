@@ -1,0 +1,9 @@
+#benimtahmin,#bilgisayartahmin{
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: tomato;
+    margin-right: 5px;
+    background-repeat: no-repeat;
+    background-position: 100px 30px;
+}
